@@ -10,6 +10,7 @@ ENV/
 env/
 *.env
 
+
 # Django stuff:
 *.log
 *.pot
