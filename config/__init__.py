@@ -1,0 +1,1 @@
+"""Indica che questa è una cartella Python, rende la cartella un modulo Python."""
